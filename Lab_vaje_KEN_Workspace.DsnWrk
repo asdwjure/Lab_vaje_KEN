@@ -1,4 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=Lab_vaja_1\jrebernik.PrjPcb
+ProjectPath=Lab_vaja_3\DAQ_REV_B.PrjPcb
+[Project2]
+ProjectPath=Lab_vaja_1_2\vaja1_2.PrjPcb
