@@ -3,6 +3,4 @@ Version=1.0
 [Project1]
 ProjectPath=Lab_vaja_1_2\vaja1_2.PrjPcb
 [Project2]
-ProjectPath=Lab_vaja_3_4\DAQ_REV_B.PrjPcb
-[Project3]
-ProjectPath=Lab_vaja_3_4\Library\DAQ_REV_B.LibPkg
+ProjectPath=Lab_vaja_USB_DAQ\DAQ_REV_B.PrjPcb
