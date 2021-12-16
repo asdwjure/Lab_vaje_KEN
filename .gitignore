@@ -4,3 +4,10 @@
 # Ignore
 *.zip
 *.LOG
+
+# Ignore everything except
+/WatchDogAlarm/*
+!*.PcbDoc
+!*.PrjPcb
+!*PrjPcbStructure
+!*SchDoc

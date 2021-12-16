@@ -4,3 +4,5 @@ Version=1.0
 ProjectPath=Lab_vaja_1_2\vaja1_2.PrjPcb
 [Project2]
 ProjectPath=Lab_vaja_USB_DAQ\DAQ_REV_B.PrjPcb
+[Project3]
+ProjectPath=WatchDogAlarm\WatchDogAlarm_rev1_3.PrjPcb
