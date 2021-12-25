@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: C:\Users\jrreb\Documents\Altium\SMT\WatchDogAlarm\WatchDogAlarm_rev1_2\WatchDogAlarm_rev1_2.PcbDoc
+RuleKind=Clearance|RuleName=Plolygon_Clearance|Scope=Board|Minimum=11.81
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97

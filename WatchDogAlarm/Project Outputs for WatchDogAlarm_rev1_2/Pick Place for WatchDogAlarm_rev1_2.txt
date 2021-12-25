@@ -1,0 +1,84 @@
+Altium Designer Pick and Place Locations
+C:\Users\jrreb\Documents\Altium\SMT\WatchDogAlarm\WatchDogAlarm_rev1_2\Project Outputs for WatchDogAlarm_rev1_2\Pick Place for WatchDogAlarm_rev1_2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/09/20
+Time:       09:19
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                       Layer    Footprint      Center-X(mm) Center-Y(mm) Rotation Description                                                             
+P1         Header 2                      TopLayer HDR1X2         40.700       35.830       270      Header, 2-Pin                                                           
+C12        10uF / 10V                    TopLayer SMD_RC0603     46.600       39.700       180      Capacitor                                                               
+C1         10uF / 10V                    TopLayer SMD_RC0603     16.600       45.200       180      Capacitor                                                               
+C2         100n                          TopLayer SMD_RC0603     16.600       46.800       180      Capacitor                                                               
+C3         10uF / 10V                    TopLayer SMD_RC0603     3.500        44.400       90       Capacitor                                                               
+C4         100n                          TopLayer SMD_RC0603     4.886        22.677       0        Capacitor                                                               
+C5         27p                           TopLayer SMD_RC0603     9.200        20.500       180                                                                              
+C6         4u7 / 10V                     TopLayer SMD_RC0603     6.800        41.500       90       Capacitor                                                               
+C7         27p                           TopLayer SMD_RC0603     9.200        17.400       180                                                                              
+C9         100n                          TopLayer SMD_RC0603     23.900       16.700       360      Capacitor                                                               
+C8         100n                          TopLayer SMD_RC0603     36.000       31.700       270      Capacitor                                                               
+C15        100n                          TopLayer SMD_RC0603     47.200       35.900       270      Capacitor                                                               
+C16        100n                          TopLayer SMD_RC0603     45.600       35.900       270      Capacitor                                                               
+C17        100n                          TopLayer SMD_RC0603     32.600       53.800       360      Capacitor                                                               
+C18        100n                          TopLayer SMD_RC0603     37.300       55.400       360      Capacitor                                                               
+D1         BAT54T1G                      TopLayer SOD-123        13.728       42.209       90                                                                               
+D2         BAT54T1G                      TopLayer SOD-123        10.680       42.209       90                                                                               
+IC1        LPC1756FBD80,551              TopLayer LQFP80_N       24.900       28.500       0        LPC1756FBD80                                                            
+IC2        LM317AEMP/NOPB                TopLayer SOT-223        10.553       50.083       90       3-Terminal Adjustable Regulator                                         
+IC3        IIS2ICLXTR                    TopLayer LGA-16L        44.250       29.200       360                                                                              
+IC4        FT232R                        TopLayer SSOP-28_N      35.000       46.200       90       USB UART Asynchronous Serial Data Transfer Chip, SSOP-28, Tape and Reel 
+L1         600R@100MHz                   TopLayer SMD_RC0603     35.800       35.500       90                                                                               
+L2         600R@100MHz                   TopLayer SMD_RC0603     38.800       29.000       360                                                                              
+L3         600R@100MHz                   TopLayer SMD_RC0603     32.631       55.410       180                                                                              
+L4         600R@100Mhz                   TopLayer SMD_RC0603     4.600        34.500       270                                                                              
+LED1       green                         TopLayer SMD_LD0603     16.522       48.559       180                                                                              
+LED2       green                         TopLayer SMD_LD0603     40.800       5.900        360                                                                              
+LED3       red                           TopLayer SMD_LD0603     40.700       12.800       360                                                                              
+LED4       green                         TopLayer SMD_LD0603     26.674       50.284       270                                                                              
+LED5       green                         TopLayer SMD_LD0603     25.100       50.300       270                                                                              
+P2         pin header 6x2, raster 2.54mm TopLayer HDR2X6         24.470       8.430        360      Header, 6-Pin, Dual row                                                 
+Q1         12MHz                         TopLayer QABM3          12.800       19.450       270      Crystal                                                                 
+R1         10k                           TopLayer SMD_RC0603     4.886        24.201       180                                                                              
+R7         47R                           TopLayer SMD_RC0603     43.500       35.900       270                                                                              
+R2         240R                          TopLayer SMD_RC0603     7.632        44.368       360                                                                              
+R3         1k                            TopLayer SMD_RC0603     16.649       50.083       0                                                                                
+R4         402R                          TopLayer SMD_RC0603     8.500        41.500       90                                                                               
+R5         240R                          TopLayer SMD_RC0603     40.700       7.400        180                                                                              
+R6         240R                          TopLayer SMD_RC0603     40.700       11.300       180                                                                              
+R8         10k                           TopLayer SMD_RC0603     37.700       20.800       180                                                                              
+R9         1k                            TopLayer SMD_RC0603     26.700       46.800       270                                                                              
+R10        1k                            TopLayer SMD_RC0603     25.100       46.800       270                                                                              
+R11        33R                           TopLayer SMD_RC0603     42.600       47.600       360                                                                              
+R12        33R                           TopLayer SMD_RC0603     42.600       49.200       360                                                                              
+R13        100k                          TopLayer SMD_RC0603     6.283        34.488       90       Resistor                                                                
+R14        1k                            TopLayer SMD_RC0603     30.900       40.100       360                                                                              
+R15        1k                            TopLayer SMD_RC0603     34.400       40.100       180                                                                              
+R16        100k                          TopLayer SMD_RC0603     8.315        31.059       270      Resistor                                                                
+R17        10k                           TopLayer SMD_RC0603     37.300       53.800       360                                                                              
+SWD1       Header 5x2                    TopLayer 2x5_SWD_CON    5.140        28.773       270      Header, 5-Pin, Dual row                                                 
+TP1        TEST_PAD_1.5mm                TopLayer TEST_PAD_1.5mm 5.854        47.035       0                                                                                
+TP4        TEST_PAD_1.5mm                TopLayer TEST_PAD_1.5mm 45.800       41.700       90                                                                               
+TP2        TEST_PAD_1.5mm                TopLayer TEST_PAD_1.5mm 7.680        24.836       90                                                                               
+TP3        TEST_PAD_1.5mm                TopLayer TEST_PAD_1.5mm 7.680        22.550       90                                                                               
+TP5        TEST_PAD_1.5mm                TopLayer TEST_PAD_1.5mm 42.732       23.058       90                                                                               
+TP6        TEST_PAD_1.5mm                TopLayer TEST_PAD_1.5mm 42.700       20.700       90                                                                               
+USB1       value: 105017-0001..          TopLayer USB_MICRO_B    48.150       48.450       90                                                                               
+ZD1        6V8                           TopLayer SOT-23         42.695       44.600       270      Zener Diode                                                             
+ZD2        6V8                           TopLayer SOT-23         18.684       3.605        360      Zener Diode                                                             
+ZD3        6V8                           TopLayer SOT-23         22.200       3.595        360      Zener Diode                                                             
+ZD4        6V8                           TopLayer SOT-23         25.900       3.695        360      Zener Diode                                                             
+ZD5        6V8                           TopLayer SOT-23         29.600       3.695        360      Zener Diode                                                             
+ZD6        6V8                           TopLayer SOT-23         29.000       13.405       180      Zener Diode                                                             
+ZD7        6V8                           TopLayer SOT-23         25.416       13.295       180      Zener Diode                                                             
+ZD8        6V8                           TopLayer SOT-23         21.900       13.305       180      Zener Diode                                                             
+ZD9        6V8                           TopLayer SOT-23         18.384       13.295       180      Zener Diode                                                             
+TP7        TEST_PAD_1.5mm                TopLayer TEST_PAD_1.5mm 13.728       38.399       90                                                                               
+C10        100n                          TopLayer SMD_RC0603     13.700       29.400       90       Capacitor                                                               
+C11        4u7 / 10V                     TopLayer SMD_RC0603     37.400       35.500       90       Capacitor                                                               
+C13        100n                          TopLayer SMD_RC0603     24.700       39.500       180      Capacitor                                                               
+C14        100n                          TopLayer SMD_RC0603     38.800       27.400       360      Capacitor                                                               
