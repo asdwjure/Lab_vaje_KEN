@@ -1,7 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\jrebernik\Documents\Faks\Lab_vaje_KEN\Lab_vaja_USB_DAQ\USB_DAQ.PcbDoc
 Date     : 25. 12. 2021
-Time     : 17:20:13
+Time     : 19:17:51
 
 Processing Rule : Clearance Constraint (Gap=0.15mm) ((InDifferentialPairClass('All Differential Pairs'))),(All)
 Rule Violations :0
@@ -48,4 +48,4 @@ Rule Violations :0
 
 Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:01
+Time Elapsed        : 00:00:02
